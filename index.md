@@ -6,3 +6,5 @@ Iron Man ist der Held, in den sich Tony Stark dank einer Rüstung verwandelt.
 * Jarvis als Unterstützung
 * lasergelenkte Waffen
 * Raketenantrieb
+Ein Zitat:
+> Kein Geld der Welt vermag eine Sekunde Zeit zu kaufen.
